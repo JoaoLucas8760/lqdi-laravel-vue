@@ -1,0 +1,1 @@
+# lqdi-teste-tecnico-laravel-vue
