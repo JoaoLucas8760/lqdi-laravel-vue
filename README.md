@@ -1,66 +1,46 @@
 # lqdi-teste-tecnico-laravel-vue
 
-## inicio: 02/11/2023 - 19:10
-<<<<<<< HEAD
+## Início: 02/11/2023 - 19:10
 
-## termino: 02/11/2023 - 22:00
+## Término: 02/11/2023 - 22:00
 
-# PROJECT VERSIONS
+# Versões do Projeto
 
-# php version 8.2.4
+- PHP Version: 8.2.4
+- NPM Version: 9.6.7
+- Node Version: 18.17.0
 
-# npm version 9.6.7
+---
 
-# node version 18.17.0
+## Como executar o projeto
 
-# -----------------------------------------------
+1. Copie o arquivo `.env.example` para `.env`
+2. Execute `composer install`
+3. Execute `npm install`
+4. Execute `php artisan migrate`
+5. Execute `php artisan db:seed`
+6. Execute `php artisan serve`
+7. Execute `npm install`
+8. Execute `npm run dev` ou `npm run build`
 
-## //How to run the project
+---
 
-# cp .env.example .env
+# Credenciais do Usuário
 
-# composer install
+- Email: admin@lqdi.com
+- Senha: senha_123
 
-# npm install
+# Rotas de Acesso
 
-# php artisan migrate
+- Rota de login para gerentes: [https://localhost:8000/login](https://localhost:8000/login)
+- Rota de gerenciamento de usuários: [https://localhost:8000/users](https://localhost:8000/users)
 
-# php artisan db:seed
+---
 
-# php artisan serve
+# Credenciais do Mailtrap para colocar no arquivo .env
 
-# npm install
-
-# npm run dev || npm run build
-
-# ------------------------------------------------
-
-# User Credentials
-
-## email: admin@lqdi.com
-
-## password: senha_123
-
-# Access route for login managers
-
-## https://localhost:8000/login
-
-# Access route to manage users
-
-## https://localhost:8000/users
-
-# -------------------------------------------------
-
-# mailtrap credentials to put in .dev
-
-## MAIL_MAILER=smtp
-
-## MAIL_HOST=sandbox.smtp.mailtrap.io
-
-## MAIL_PORT=2525
-
-## MAIL_USERNAME=7cd3bc8370eb0c
-
-## MAIL_PASSWORD=b3382e888f2e81
-=======
->>>>>>> 58e347cb09f9242a7d7bd4e78f3b4abff3a802bd
+- MAIL_MAILER=smtp
+- MAIL_HOST=sandbox.smtp.mailtrap.io
+- MAIL_PORT=2525
+- MAIL_USERNAME=7cd3bc8370eb0c
+- MAIL_PASSWORD=b3382e888f2e81
