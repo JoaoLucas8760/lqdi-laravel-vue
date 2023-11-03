@@ -506,12 +506,12 @@ export default {
             this.errorFields = false;
 
             axios
-                .post("http://localhost:8000/api/newsletter", {
+                .post("http://lqdi.17ef0b05.configr.cloud/api/newsletter", {
                     name: this.name,
                     email: this.email,
                 })
                 .then((response) => {
-                    console.log("Executo succes");
+                    console.log("Executo success");
                     this.success = true;
                 })
                 .catch((response) => {
