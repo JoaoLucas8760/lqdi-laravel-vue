@@ -1,4 +1,4 @@
-# lqdi-teste-tecnico-laravel-vue
+# lqdi-teste-tecnico-laravel-vue-react
 
 ## Início: 02/11/2023 - 19:10
 
@@ -48,6 +48,19 @@
 -   MAIL_FROM_ADDRESS="suporte@madgic.com.br"
 -   MAIL_FROM_NAME="Madgic"
 
-## Tomei a liberdade de replicar a landing page em nextJS
+---
 
-### Link do repositorio:
+# Como na solicitação poderia fazer em vue ou react, decidi mostrar minhas skills nos dois frameworks
+
+## Link do repositorio em react/nextjs: https://github.com/JoaoLucas8760/lqdi-react
+
+## deploy da landing page em react: https://lqdi-react.vercel.app/
+
+### OBS: Necessário rodar servidor laravel para ligar a api
+
+## Como executar o projeto react
+
+1. npm install
+2. npm run dev
+
+
