@@ -1,6 +1,7 @@
 # lqdi-teste-tecnico-laravel-vue
 
 ## inicio: 02/11/2023 - 19:10
+<<<<<<< HEAD
 
 ## termino: 02/11/2023 - 22:00
 
@@ -61,3 +62,5 @@
 ## MAIL_USERNAME=7cd3bc8370eb0c
 
 ## MAIL_PASSWORD=b3382e888f2e81
+=======
+>>>>>>> 58e347cb09f9242a7d7bd4e78f3b4abff3a802bd
