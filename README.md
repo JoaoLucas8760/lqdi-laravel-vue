@@ -4,11 +4,11 @@
 
 ## Término: 02/11/2023 - 22:00
 
-# Versões do Projeto
+## Versões do Projeto
 
--   PHP Version: 8.2.4
--   NPM Version: 9.6.7
--   Node Version: 18.17.0
+- PHP Version: 8.2.4
+- NPM Version: 9.6.7
+- Node Version: 18.17.0
 
 ---
 
@@ -25,42 +25,40 @@
 
 ---
 
-# Credenciais do Usuário
+## Credenciais do Usuário
 
--   Email: admin@lqdi.com
--   Senha: senha_123
+- Email: admin@lqdi.com
+- Senha: senha_123
 
-# Rotas de Acesso
+## Rotas de Acesso
 
--   Rota de login para gerentes: [https://localhost:8000/login](https://localhost:8000/login)
--   Rota de gerenciamento de usuários: [https://localhost:8000/users](https://localhost:8000/users)
-
----
-
-# Credenciais do Mailtrap para colocar no arquivo .env
-
--   MAIL_MAILER=smtp
--   MAIL_HOST=smtp.madgic.com.br
--   MAIL_PORT=587
--   MAIL_USERNAME="suporte@madgic.com.br"
--   MAIL_PASSWORD='M@dgic2020'
--   MAIL_ENCRYPTION=null
--   MAIL_FROM_ADDRESS="suporte@madgic.com.br"
--   MAIL_FROM_NAME="Madgic"
+- Rota de login para gerentes: [https://localhost:8000/login](https://localhost:8000/login)
+- Rota de gerenciamento de usuários: [https://localhost:8000/users](https://localhost:8000/users)
 
 ---
 
-# Como na solicitação poderia fazer em vue ou react, decidi mostrar minhas skills nos dois frameworks
+## Credenciais do Mailtrap para colocar no arquivo .env
 
-## Link do repositorio em react/nextjs: https://github.com/JoaoLucas8760/lqdi-react
+- MAIL_MAILER=smtp
+- MAIL_HOST=smtp.madgic.com.br
+- MAIL_PORT=587
+- MAIL_USERNAME="suporte@madgic.com.br"
+- MAIL_PASSWORD='M@dgic2020'
+- MAIL_ENCRYPTION=null
+- MAIL_FROM_ADDRESS="suporte@madgic.com.br"
+- MAIL_FROM_NAME="Madgic"
 
-## deploy da landing page em react: https://lqdi-react.vercel.app/
+---
 
-### OBS: Necessário rodar servidor laravel para ligar a api
+## Como na solicitação poderia fazer em Vue ou React, decidi fazer o projeto em Laravel/Vue e em React desacoplado do Laravel
 
-## Como executar o projeto react
+### Link do repositório em React/Next.js: [https://github.com/JoaoLucas8760/lqdi-react](https://github.com/JoaoLucas8760/lqdi-react)
 
-1. npm install
-2. npm run dev
+### Deploy da landing page em React: [https://lqdi-react.vercel.app/](https://lqdi-react.vercel.app/)
 
+#### OBS: Necessário rodar servidor Laravel para ligar a API
 
+## Como executar o projeto React
+
+1. `npm install`
+2. `npm run dev`
