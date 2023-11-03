@@ -6,9 +6,9 @@
 
 # Versões do Projeto
 
-- PHP Version: 8.2.4
-- NPM Version: 9.6.7
-- Node Version: 18.17.0
+-   PHP Version: 8.2.4
+-   NPM Version: 9.6.7
+-   Node Version: 18.17.0
 
 ---
 
@@ -27,20 +27,27 @@
 
 # Credenciais do Usuário
 
-- Email: admin@lqdi.com
-- Senha: senha_123
+-   Email: admin@lqdi.com
+-   Senha: senha_123
 
 # Rotas de Acesso
 
-- Rota de login para gerentes: [https://localhost:8000/login](https://localhost:8000/login)
-- Rota de gerenciamento de usuários: [https://localhost:8000/users](https://localhost:8000/users)
+-   Rota de login para gerentes: [https://localhost:8000/login](https://localhost:8000/login)
+-   Rota de gerenciamento de usuários: [https://localhost:8000/users](https://localhost:8000/users)
 
 ---
 
 # Credenciais do Mailtrap para colocar no arquivo .env
 
-- MAIL_MAILER=smtp
-- MAIL_HOST=sandbox.smtp.mailtrap.io
-- MAIL_PORT=2525
-- MAIL_USERNAME=7cd3bc8370eb0c
-- MAIL_PASSWORD=b3382e888f2e81
+-   MAIL_MAILER=smtp
+-   MAIL_HOST=smtp.madgic.com.br
+-   MAIL_PORT=587
+-   MAIL_USERNAME="suporte@madgic.com.br"
+-   MAIL_PASSWORD='M@dgic2020'
+-   MAIL_ENCRYPTION=null
+-   MAIL_FROM_ADDRESS="suporte@madgic.com.br"
+-   MAIL_FROM_NAME="Madgic"
+
+## Tomei a liberdade de replicar a landing page em nextJS
+
+### Link do repositorio:

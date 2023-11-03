@@ -506,7 +506,7 @@ export default {
             this.errorFields = false;
 
             axios
-                .post("http://lqdi.17ef0b05.configr.cloud/api/newsletter", {
+                .post("http://localhost:8000/api/newsletter", {
                     name: this.name,
                     email: this.email,
                 })
