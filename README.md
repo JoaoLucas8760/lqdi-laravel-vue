@@ -1,4 +1,4 @@
-# lqdi-teste-tecnico-laravel-vue-react
+
 
 ## Início: 02/11/2023 - 19:10
 
